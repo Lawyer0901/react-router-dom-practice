@@ -1,13 +1,33 @@
 {
   "files": {
     "main.css": "/react-router-dom-practice/static/css/main.7acaea2f.css",
-    "main.js": "/react-router-dom-practice/static/js/main.b43e2ec0.js",
+    "main.js": "/react-router-dom-practice/static/js/main.da455660.js",
+    "static/js/270.eead55e2.chunk.js": "/react-router-dom-practice/static/js/270.eead55e2.chunk.js",
+    "static/js/264.e4656623.chunk.js": "/react-router-dom-practice/static/js/264.e4656623.chunk.js",
+    "static/js/318.394f2e64.chunk.js": "/react-router-dom-practice/static/js/318.394f2e64.chunk.js",
+    "static/js/673.166b1c7d.chunk.js": "/react-router-dom-practice/static/js/673.166b1c7d.chunk.js",
+    "static/js/109.5adabb58.chunk.js": "/react-router-dom-practice/static/js/109.5adabb58.chunk.js",
+    "static/js/146.27f417a0.chunk.js": "/react-router-dom-practice/static/js/146.27f417a0.chunk.js",
+    "static/js/810.ae6275dd.chunk.js": "/react-router-dom-practice/static/js/810.ae6275dd.chunk.js",
+    "static/js/921.f1767b2e.chunk.js": "/react-router-dom-practice/static/js/921.f1767b2e.chunk.js",
+    "static/js/248.eccac401.chunk.js": "/react-router-dom-practice/static/js/248.eccac401.chunk.js",
+    "static/js/658.7447fe80.chunk.js": "/react-router-dom-practice/static/js/658.7447fe80.chunk.js",
     "index.html": "/react-router-dom-practice/index.html",
     "main.7acaea2f.css.map": "/react-router-dom-practice/static/css/main.7acaea2f.css.map",
-    "main.b43e2ec0.js.map": "/react-router-dom-practice/static/js/main.b43e2ec0.js.map"
+    "main.da455660.js.map": "/react-router-dom-practice/static/js/main.da455660.js.map",
+    "270.eead55e2.chunk.js.map": "/react-router-dom-practice/static/js/270.eead55e2.chunk.js.map",
+    "264.e4656623.chunk.js.map": "/react-router-dom-practice/static/js/264.e4656623.chunk.js.map",
+    "318.394f2e64.chunk.js.map": "/react-router-dom-practice/static/js/318.394f2e64.chunk.js.map",
+    "673.166b1c7d.chunk.js.map": "/react-router-dom-practice/static/js/673.166b1c7d.chunk.js.map",
+    "109.5adabb58.chunk.js.map": "/react-router-dom-practice/static/js/109.5adabb58.chunk.js.map",
+    "146.27f417a0.chunk.js.map": "/react-router-dom-practice/static/js/146.27f417a0.chunk.js.map",
+    "810.ae6275dd.chunk.js.map": "/react-router-dom-practice/static/js/810.ae6275dd.chunk.js.map",
+    "921.f1767b2e.chunk.js.map": "/react-router-dom-practice/static/js/921.f1767b2e.chunk.js.map",
+    "248.eccac401.chunk.js.map": "/react-router-dom-practice/static/js/248.eccac401.chunk.js.map",
+    "658.7447fe80.chunk.js.map": "/react-router-dom-practice/static/js/658.7447fe80.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.b43e2ec0.js"
+    "static/js/main.da455660.js"
   ]
 }
